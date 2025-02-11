@@ -1,0 +1,4 @@
+tweepy==4.14.0
+textblob==0.17.1
+matplotlib==3.7.1
+tk==0.1.0
